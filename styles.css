@@ -1,0 +1,22 @@
+body{
+    display:flex;
+    flex-direction: column;
+    text-align:center;
+    width: 80%;
+    margin:auto;
+    background-color:#FAF9F5;
+ 
+}
+input{
+    width:50%;
+    margin:auto;
+
+}
+button{
+    width:51%;
+    margin:auto;
+    cursor: pointer;
+}
+button:hover{
+    background-color:#F97ED0;
+}
